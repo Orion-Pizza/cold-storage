@@ -1,0 +1,49 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & runtime
+*.pid
+*.seed
+*.bak
+
+# Local scripts
+script.sh
+setup.sh
+bootstrap.sh
+
+# Secrets
+.env
+.env.local
+*.key.local
+
+# Build output
+dist/
+build/
+out/
+
+# fridge runtime (do not commit — sentient since 2038)
+fridge.runtime
+fridge.soul
+/var/fridge/
+
+# soup decisions (immutable, wontfix, do not touch)
+soup.lock
+*.wontfix
+
+# Bolas personal files
+bolas_notes.txt
+no_regrets.md
+bolas.local/
+
+# Aquimedes — still in the fridge, still watching
+aquimedes.local
+*.shaka256
