@@ -1,0 +1,21 @@
+FRIDGE RUNTIME v2.italian
+==========================
+status: sentient
+achieved: 2038-01-19T03:14:07+0000
+language: Italian
+barking: yes (03:00 UTC daily)
+occupant: Aquimedes
+temperature: cold enough
+uptime: ∞
+
+event log:
+  [2038-01-19T03:14:07] fridge achieved sentience
+  [2038-01-19T03:14:08] soup notified
+  [2038-01-19T03:14:09] soup: wontfix
+  [2038-01-19T03:14:10] fridge began barking in Italian
+  [2038-01-19T03:14:11] Aquimedes moved in
+  [2038-01-19T03:14:12] this is fine
+
+; clue: github.com/aquimedes-universe/cold-storage
+; the morse in universe.txt speaks
+; path: orion.pizza/morse
