@@ -1,0 +1,11 @@
+window.log
+==========
+status: removed
+commit: a1b2c3d
+date: before it existed
+soup_decision: wontfix
+will_return: false
+
+this file documents the window.
+the window is no longer here.
+this file is all that remains.
