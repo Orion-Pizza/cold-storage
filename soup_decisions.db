@@ -8,3 +8,9 @@ query_005: wontfix
 [47 entries]
 [all wontfix]
 [redacted by soup]
+
+[2024 audit]
+query_048: add tests — wontfix
+query_049: restore window — wontfix
+query_050: accept any PR — wontfix
+query_051: reconsider — wontfix
